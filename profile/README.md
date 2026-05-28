@@ -1,6 +1,6 @@
-  # Checklog
+  # Check Log
 
-A **Checklog** é uma organização de desenvolvimento e engenharia de software composta por alunos do **SENAI Manuel Garcia**. Somos especializados no desenvolvimento de soluções integradas e eficientes para o setor industrial, com foco particular na criação de um ecossistema unificado que engloba um **Sistema de Controle de Estoque** e um **Sistema de Controle de Ponto para Funcionários**.
+A **CheckLog** é uma organização de desenvolvimento e engenharia de software composta por alunos do **SENAI Manuel Garcia**. Somos especializados no desenvolvimento de soluções integradas e eficientes para o setor industrial, com foco particular na criação de um ecossistema unificado que engloba um **Sistema de Controle de Estoque** e um **Sistema de Controle de Ponto para Funcionários**.
 
 ## Nossa Filosofia
 
@@ -18,4 +18,4 @@ Nossos projetos utilizam tecnologias modernas e consolidadas no mercado para gar
 
 ## Disclaimer Legal
 
-Os sistemas e ferramentas desenvolvidos pela Checklog são projetos de caráter predominantemente acadêmico e experimental, concebidos estritamente dentro do ambiente de aprendizado do SENAI Manuel Garcia. Embora o desenvolvimento siga rigorosas boas práticas de engenharia de software, as soluções são fornecidas "como estão" (as-is), sem garantias explícitas de suporte comercial, homologação jurídica ou conformidade irrestrita com as leis trabalhistas vigentes para uso imediato em ambientes de produção industrial de grande porte. A Checklog e seus membros não se responsabilizam por quaisquer falhas operacionais decorrentes do uso inadequado deste software fora do escopo educacional.
+Os sistemas e ferramentas desenvolvidos pela CheckLog são projetos de caráter predominantemente acadêmico e experimental, concebidos estritamente dentro do ambiente de aprendizado do SENAI Manuel Garcia. Embora o desenvolvimento siga rigorosas boas práticas de engenharia de software, as soluções são fornecidas "como estão" (as-is), sem garantias explícitas de suporte comercial, homologação jurídica ou conformidade irrestrita com as leis trabalhistas vigentes para uso imediato em ambientes de produção industrial de grande porte. A CheckLog e seus membros não se responsabilizam por quaisquer falhas operacionais decorrentes do uso inadequado deste software fora do escopo educacional.
